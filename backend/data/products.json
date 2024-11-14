@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c632bd79-d1cd-4757-b974-30b89271a964",
+    "title": "string23",
+    "summary": "string",
+    "author": "string",
+    "price": 0,
+    "quantity": 0
+  },
+  {
+    "id": "49949130-7138-4aba-89e5-a62722c61620",
+    "title": "string2",
+    "summary": "string",
+    "author": "string",
+    "price": 0,
+    "quantity": 0
+  },
+  {
+    "id": "41ff129a-362a-4963-9c45-8b5c4fd578b0",
+    "title": "string3",
+    "summary": "string",
+    "author": "string",
+    "price": 0,
+    "quantity": 0
+  }
+]
