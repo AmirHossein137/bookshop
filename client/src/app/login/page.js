@@ -1,12 +1,10 @@
 import LoginPage from '@/components/template/LoginPage'
 import React from 'react'
 
-const Home = () => {
+const Login = () => {
   return (
-    <div>
-      Hello World
-    </div>
+    <LoginPage />
   )
-} 
+}
 
-export default Home
+export default Login
